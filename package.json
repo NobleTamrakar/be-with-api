@@ -1,6 +1,7 @@
 {
-	"author":Noble Tamrakar,
+	
 	"name": "fcc-learn-npm-package-json",
+	"author":"Noble Tamrakar",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
